@@ -1,8 +1,3 @@
-Claro, Edelcio! Aqui está um `README.md` completo e profissional, totalmente adaptado ao seu projeto Laravel com Docker, Nginx Proxy Manager, Memcached, GitHub Actions e mais. Você pode colar esse conteúdo diretamente no arquivo `README.md` na raiz da pasta `app`.
-
----
-
-````markdown
 <p align="center">
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
